@@ -2,6 +2,7 @@ Django==4.1.10
 psycopg2-binary
 python-decouple
 gunicorn
+whitenoise
 djangorestframework==3.14.0
 django-cors-headers==4.3.1
 djangorestframework-simplejwt==5.3.0
