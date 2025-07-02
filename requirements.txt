@@ -9,3 +9,6 @@ python-decouple==3.8
 django-filter==23.3
 Pillow
 django-environ
+setuptools
+djangorestframework
+djangorestframework-simplejwt
